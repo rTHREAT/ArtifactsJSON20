@@ -1,5 +1,5 @@
 {
-        "name": "9a1f3.Trojan",
+        "name": "4700d.Worm",
         "versions": {
                 "attack": "10",
                 "navigator": "4.5.5",
@@ -63,6 +63,14 @@
                         "showSubtechniques": true
                 },
                 {
+                        "techniqueID": "T1056",
+                        "color": "#e60d0d",
+                        "comment": "",
+                        "enabled": true,
+                        "metadata": [],
+                        "showSubtechniques": true
+                },
+                {
                         "techniqueID": "T1056.004",
                         "color": "#e60d0d",
                         "comment": "",
@@ -79,7 +87,31 @@
                         "showSubtechniques": true
                 },
                 {
+                        "techniqueID": "T1083",
+                        "color": "#e60d0d",
+                        "comment": "",
+                        "enabled": true,
+                        "metadata": [],
+                        "showSubtechniques": true
+                },
+                {
                         "techniqueID": "T1082",
+                        "color": "#e60d0d",
+                        "comment": "",
+                        "enabled": true,
+                        "metadata": [],
+                        "showSubtechniques": true
+                },
+                {
+                        "techniqueID": "T1021",
+                        "color": "#e60d0d",
+                        "comment": "",
+                        "enabled": true,
+                        "metadata": [],
+                        "showSubtechniques": true
+                },
+                {
+                        "techniqueID": "T1021.001",
                         "color": "#e60d0d",
                         "comment": "",
                         "enabled": true,
